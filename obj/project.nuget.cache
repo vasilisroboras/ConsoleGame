@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HO94wi5A0gTo0mYr/j42oObRHpEqc+F8vT/UPS16TgfErHyOLBK2N/faurqiDv4r6LMSZnu22VkcsirokVZ3fg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\andal\\Desktop\\worldofadventures\\WorldofAdventures.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\andal\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
